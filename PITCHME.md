@@ -1,7 +1,7 @@
 ---
-marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+marp: false
+title: Living out the Gospel 
+description: Self-giving Love the Book of Philippians - Chapter 5
 theme: uncover
 paginate: true
 _paginate: false
