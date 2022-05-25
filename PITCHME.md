@@ -50,3 +50,33 @@ section {
 # What actually happend 
 
 ![w:1000 h:600](./assets/boston3.jpeg)
+
+---
+
+# Theology vs Ethics 
+
+- From the book: 
+
+> Paul surely would scratch his head at that practice of many Christian seminaries and universities to separate the study of `right thinking` (theology) from `right living` (ethics) into separate courses, or even separate departmentments.
+
+---
+
+# Theology vs Ethics 
+
+- The gospel that saves us must take on blood and bones in the lives of God's people, or it morphs into something other than the gospel 
+
+- On May 10, 1940, Winston Churchill became Prime Minister. When he met his Cabinet on May 13 he told them that 
+
+> I have nothing to offer but blood, toil, tears and sweat.
+
+---
+
+# Theology vs Ethics 
+
+<style scoped>
+  video::-webkit-media-controls {
+    will-change: transform;
+  }
+</style>
+
+<video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" controls width="100%"></video>
