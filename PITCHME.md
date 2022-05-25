@@ -71,12 +71,11 @@ section {
 
 ---
 
-# Theology vs Ethics 
+# Darkest Hour 
 
-<style scoped>
-  video::-webkit-media-controls {
-    will-change: transform;
-  }
-</style>
+[![w:300 h:400](./assets/dark.jpg)](https://www.youtube.com/watch?v=htHKbsUKDDw&t=106s&ab_channel=Movieclips)
 
-<video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" controls width="100%"></video>
+
+- IMDB 7.4, Rotten Tomatoes 84%
+
+---
