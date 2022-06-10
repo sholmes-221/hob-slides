@@ -9,15 +9,15 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Living out the Gospel 
+# <!--fit--> A Missional Community  
 
-Self-giving Love the Book of Philippians - Chapter 5
+Self-giving Love: the Book of Philippians - Chapter 7
 
 Timothy Shan
 
 ---
 
-# My trip to Boston 
+# Mission Bay  
 
 - August, 2017, I was on a trip to `Boston`, there is a nice youth hotel beside the Boston Commons park 
 - However, there would be a `right-wing protest` near the park based on the news, so I did not book that youth hotel 
