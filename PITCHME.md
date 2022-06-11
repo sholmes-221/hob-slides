@@ -27,6 +27,30 @@ Timothy Shan
 
 --- 
 
+# James Hudson Taylor
+
+<style scoped>
+section {
+  font-size: 35px;
+}
+</style>
+
+- `No other missionary in the nineteen centuries since the Apostle Paul has had a wider vision and has carried out a more systematized plan of evangelizing a broad geographical area than Hudson Taylor.`
+
+- If I had a thousand pounds China should have it—if I had a thousand lives, China should have them. No! Not China, but Christ. Can we do too much for Him? Can we do enough for such a precious Saviour?
+
+- God's work done in God's way will never lack God's supply.
+
+---
+
+# James Hudson Taylor 
+
+[![w:300 h:400](./assets/Hudson_Taylor.jpeg)](https://youtu.be/QoYPKJjo4cE)
+
+- *please turn on the audio sharing*
+
+--- 
+
 # <!--fit--> Philippians 2: Imitating Christ’s Humility 
 
 > 2 Therefore if you have any encouragement from being united with Christ, if any comfort from his love, if any common sharing in the Spirit, if any tenderness and compassion, 2 then make my joy complete by being like-minded, having the same love, being one in spirit and of one mind. 3 Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves, 4 not looking to your own interests but each of you to the interests of the others.
