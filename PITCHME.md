@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Living out the Gospel 
+title: A Missional Community 
 description: Timothy Shan
 theme: uncover
 paginate: true
@@ -117,7 +117,13 @@ section {
 
 --- 
 
-# <!--fit--> <span style="color:white;">A poem about Mission Bay</span> 
+<style scoped>
+section {
+  color: white;
+}
+</style>
+
+# <!--fit--> A poem about Mission Bay
 
 ```
 Fair Mission bay,
