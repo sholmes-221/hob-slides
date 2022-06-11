@@ -82,6 +82,27 @@ section {
 
 - Can you think of some widely held values of your own culture that are compatible with the gospel of Christ crucified? 
 
+--- 
+
+<style scoped>
+section {
+  color: white;
+}
+</style>
+
+# Discussion  
+
+- `Soul`, directed by `Pete Docter`
+
+> The film’s main insight is something Christians already know: There’s more to life than our accomplishments. In fact, this realization is what inspired the film’s concept, according to director Pete Docter. 
+-- [‘Soul’ and the Purpose-Driven Generation](https://www.christianitytoday.com/ct/2021/january-web-only/disney-pixar-soul-purpose-driven-generation.html)
+
+![bg](./assets/soul.jpeg)
+
+--- 
+
+# Discussion  
+
 - What about specific cultural values that the gospel calls into question? 
 
 --- 
