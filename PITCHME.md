@@ -78,7 +78,7 @@ Timothy Shan
 
 <style scoped>
 section {
-  font-size: 40px;
+  font-size: 35px;
 }
 </style>
 
@@ -88,6 +88,8 @@ section {
     - Free piano lessons for hymns 
 
 - But what if people still don't care, or even become hostile?
+
+- The author talks about his father's `Coffee Shop Mission`. Where is your mission field?
 
 --- 
 
