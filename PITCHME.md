@@ -17,13 +17,33 @@ Timothy Shan
 
 ---
 
-# Mission Bay and Mission Valley 
+# <!--fit--> Mission Bay and Mission Valley 
 
-- There are two places in San Diego named after the Spanish missionaries
-    - California’s first Spanish mission, `San Diego de Alcalá`
-- Mission Valley is a shopping center  
-- Mission Bay is a recreational park by the beach 
+- Named after California’s first Spanish mission, `San Diego de Alcalá`
+    - Mission Valley is a shopping center  
+    - Mission Bay is a recreational park by the beach 
 
-![w:1000 h:600](./assets/bay.jpeg)
+![bg left](./assets/bay.jpeg)
+
+--- 
+
+# <!--fit--> <span style="color:white;">A poem about Mission Bay</span> 
+
+```
+Fair Mission bay,
+Now blue, now gray,
+Now flushed by sunset’s after glow,
+Thy rose hues take the tint of fawn
+At dawn of dusk and dusk of dawn.
+God’s placid mirror. Heaven crowned,
+Framed in the brown hills circling round,
+
+This thy grand mission, Mission Bay –
+To smile serene through blue or gray;
+To take whatever God has sent,
+And teach mankind a full content.
+```
+
+![bg](./assets/sunset.png)
 
 --- 
