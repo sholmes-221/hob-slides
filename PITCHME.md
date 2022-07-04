@@ -21,6 +21,18 @@ Timothy Shan
 
 ---
 
+# <!--fit--> God’s Marvelous Plan for the Gentiles
+
+> 6 This `mystery` is that through the gospel the Gentiles are heirs together with Israel, members together of one body, and sharers together in the promise in Christ Jesus.
+
+---
+
+# A Prayer for the Ephesians
+
+> 16 I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being, 17 so that Christ may dwell in your hearts through faith. And I pray that you, being rooted and established in love, 18 may have power, together with all the Lord’s holy people, `to grasp how wide and long and high and deep is the love of Christ, 19 and to know this love that surpasses knowledge`—that you may be filled to the measure of all the fullness of God.
+
+---
+
 
 
  
