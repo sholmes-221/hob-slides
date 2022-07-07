@@ -80,6 +80,12 @@ Timothy Shan
 
 ---
 
+# Discussion 
+
+- What does it mean by `so that Christ may dwell in your hearts through faith`? 
+
+- What `to know this love that surpasses knowledge` means? How can we know sth that surpasses knowledge? 
+    - via experience, can you give an example? 
 
 
  
