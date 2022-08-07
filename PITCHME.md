@@ -92,6 +92,9 @@ Timothy Shan
 
 - Obedient children are particularly vulnerable, so a domineering and thoughtless father’s actions would be discouraging to them
 
+- Perhaps think of any good example of parenting in the Bible?
+    - Proverbs 29:17: “Discipline your children, and they will give you peace of mind and will make your heart glad.”
+
 ---
 
 # Application 
@@ -140,3 +143,10 @@ Timothy Shan
 > 14 Stand your ground, putting on the `belt` of truth and the `body armor` of God’s righteousness. 15 For `shoes`, put on the peace that comes from the Good News so that you will be fully prepared.* 16 In addition to all of these, hold up the `shield` of faith to stop the fiery arrows of the devil.* 17 Put on salvation as your `helmet`, and take the `sword` of the Spirit, which is the word of God. 18 Pray in the Spirit at all times and on every occasion. Stay alert and be persistent in your prayers for all believers everywhere.*
 
 - Which armor you use most, and which to polish more?
+
+---
+
+# Discussion
+
+- Any more thoughts/comments on Ephesians?
+
