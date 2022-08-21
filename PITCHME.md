@@ -57,6 +57,23 @@ Timothy Shan
 - James does not imply that God wills to grant sinful, selfish desires (4:3), but bringing requests before God can have a purifying influence on one’s desires
     - We can reflect on what we ask, and allow the Holy Spirit to guide us
 
+--- 
+
+# Discussion 
+
+> 8 Come near to God and he will come near to you. Wash your hands, you sinners, and purify your hearts, you double-minded.
+9 `Grieve, mourn and wail`. Change your laughter to mourning and your joy to gloom.
+
+- What does James mean?
+
+- Does James mean there is no laughter when we come near to God? 
+
+---
+
+- Laughter shows how casually James’s readers were treating their sin. The only proper reaction to God’s impending judgment is to be wretched and mourn and weep
+
+- Isaiah 15: 2 Dibon goes up to its temple, to its high places to `weep`; Moab `wails` over Nebo and Medeba. Every head is shaved and every beard cut off.
+
 ---
 
 # Boasting About Tomorrow
