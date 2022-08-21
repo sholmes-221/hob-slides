@@ -21,21 +21,6 @@ Timothy Shan
 
 ---
 
-# 9/11: One Day in America 
-
-- IMDB 9.3/10
-- *please turn on the audio sharing*
-
-[![w:400 h:500](https://user-images.githubusercontent.com/106022681/185776490-1611b7d0-a9c5-4752-8b44-3e5e09a8b65e.png)](https://youtu.be/pfPiGPKH8fw)
-
----
-
-# Discussion 
-
-- What's your experience with that accident, or any accident?
-
----
-
 # Submit Yourselves to God
 
 > 1 What causes fights and quarrels among you? Don’t they come from your desires that battle within you?
@@ -84,9 +69,20 @@ Timothy Shan
 
 ---
 
+# 9/11: One Day in America 
+
+- IMDB 9.3/10
+- *please turn on the audio sharing*
+
+[![w:400 h:500](https://user-images.githubusercontent.com/106022681/185776490-1611b7d0-a9c5-4752-8b44-3e5e09a8b65e.png)](https://youtu.be/pfPiGPKH8fw)
+
+---
+
 # Discussion
 
 > 14 Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes.
+
+- What's your experience with that accident, or any accident?
 
 - Accidents like 9/11 might happen, so we should not be presumptuous and arrogant when making our plans
 
@@ -132,5 +128,13 @@ Cause the writing’s on the wall
 
 ---
 
+# Discussion 
+
+> 17 If anyone, then, knows the good they ought to do and doesn’t do it, it is sin for them.
+
+- It is not only what people do that matters; the good that they fail to do is equally important to God
+
+- Any examples of `sins of omission`, and reflections? 
+    - My experience with a beggar in Bugis 
 
 
