@@ -49,6 +49,7 @@ Timothy Shan
 3 When you ask, you do not receive, because you ask with wrong motives, that you may spend what you get on your pleasures.
 
 - Why James asks us to pray? 
+- Can we pray about every desire?
 
 ---
 
@@ -56,6 +57,18 @@ Timothy Shan
 
 - James does not imply that God wills to grant sinful, selfish desires (4:3), but bringing requests before God can have a purifying influence on one’s desires
     - We can reflect on what we ask, and allow the Holy Spirit to guide us
+
+---
+
+# Discussion 
+
+> 7 Submit yourselves, then, to God. Resist the devil, and he will flee from you.
+
+- Can you give an example of resisting the devil? 
+
+- My doubts about God, and the insights from Genesis
+    - Other religions claim sun, moon, etc are all gods, only the Bible says God creates them
+    - Other religions say human are made to work for gods, only the Bible says God wants a relationship
 
 --- 
 
