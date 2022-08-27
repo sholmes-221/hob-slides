@@ -1,6 +1,6 @@
 ---
 marp: true
-title: The Armor of God 
+title: Submit Yourselves to God 
 description: Timothy Shan
 theme: uncover
 paginate: true
