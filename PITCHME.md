@@ -108,6 +108,14 @@ Timothy Shan
 
 ---
 
+# 9/11: One Day in America 
+
+- [A Firefighter's Sacrifice](https://youtu.be/Nem_nSEDO-A)
+
+- [The Light Of Hope](https://youtu.be/uglQIl9Rvuc)
+
+---
+
 # Discussion
 
 > 14 Why, you do not even know what will happen tomorrow. What is your life? You are a mist that appears for a little while and then vanishes.
