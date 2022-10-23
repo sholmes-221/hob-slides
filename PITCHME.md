@@ -37,6 +37,12 @@ Timothy Shan
 
 ---
 
+# Overview 
+
+[![w:800 h:500](https://user-images.githubusercontent.com/106022681/197387988-3070a039-0d12-4d23-8f58-7e23de973b7b.jpg)](https://user-images.githubusercontent.com/106022681/197387893-c610daf3-84ba-489a-8990-ae0f2cc52806.mp4)
+
+---
+
 > 1 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family: 2 Reuben, Simeon, Levi and Judah; 3 Issachar, Zebulun and Benjamin; 4 Dan and Naphtali; Gad and Asher. 5 The descendants of Jacob numbered seventy[a] in all; Joseph was already in Egypt.
 6 Now Joseph and all his brothers and all that generation died, 7 but the Israelites were exceedingly fruitful; they multiplied greatly, increased in numbers and became so numerous that the land was filled with them. 
 
