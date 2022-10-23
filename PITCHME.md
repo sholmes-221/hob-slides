@@ -19,7 +19,9 @@ Timothy Shan
 
 # Mrvica's piece "Exodus"
 
-[![w:800 h:500](https://user-images.githubusercontent.com/106022681/197112751-0b0c4965-1ec1-4bb3-b491-6907230c0deb.png)](https://youtu.be/NxzU_rFfXzs)
+[![w:600 h:300](https://user-images.githubusercontent.com/106022681/197112751-0b0c4965-1ec1-4bb3-b491-6907230c0deb.png)](https://youtu.be/NxzU_rFfXzs)
+
+- How do you feel about the music?
 
 ---
 
