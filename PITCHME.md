@@ -129,3 +129,5 @@ I am he; I am the first,
 # Application 
 
 - Try something new this year for Christ 
+
+- Eg a new Bible reading plan, reach out to new people to share the gospel, etc
