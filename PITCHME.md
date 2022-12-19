@@ -112,6 +112,8 @@ I, the Lord, the first,
 
 --- 
 
+# Discussion 
+
 > Isa. 44:6 Thus says the Lord, the King of Israel
     and his Redeemer, the Lord of hosts:
 “I am the first and I am the last;
@@ -121,3 +123,9 @@ I, the Lord, the first,
     and Israel, whom I called!
 I am he; I am the first,
     and I am the last.
+
+--- 
+
+# Application 
+
+- Try something new this year for Christ 
