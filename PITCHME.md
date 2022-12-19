@@ -1,6 +1,6 @@
 ---
 marp: true
-title: The Israelites Oppressed 
+title: The New Heaven and the New Earth 
 description: Timothy Shan
 theme: uncover
 paginate: true
@@ -9,156 +9,115 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> The Israelites Oppressed
+# <!--fit--> The New Heaven and the New Earth
 
-Exodus 1
+Revelation 21:1-6a
 
 Timothy Shan
 
 ---
 
-# Mrvica's piece "Exodus"
+# Something new
 
-[![w:600 h:300](https://user-images.githubusercontent.com/106022681/197112751-0b0c4965-1ec1-4bb3-b491-6907230c0deb.png)](https://youtu.be/NxzU_rFfXzs)
+- New year resolutions? Pay new price for the rent? New movie? New language? 
 
-- How do you feel about the music?
-
----
-
-# Recap 
-
-![w:800 h:500](https://user-images.githubusercontent.com/106022681/197113355-1c4a7376-6633-4958-b115-0bef67448381.png)
+![w:500 h:450](https://user-images.githubusercontent.com/8708551/208352012-f9258d2c-6675-40aa-8c18-cc2a9f7ef995.png)
 
 ---
 
-# Overview 
+# Something new
 
-![w:800 h:500](https://user-images.githubusercontent.com/106022681/197113874-c509ab5b-6e7a-4560-9ec3-90db70ef3e86.png)
+- I would like travel to new countries. Where do you want to travel to?
 
----
-
-# Overview 
-
-[![w:800 h:500](https://user-images.githubusercontent.com/106022681/197387988-3070a039-0d12-4d23-8f58-7e23de973b7b.jpg)](https://user-images.githubusercontent.com/106022681/197387893-c610daf3-84ba-489a-8990-ae0f2cc52806.mp4)
+![w:800 h:500](https://user-images.githubusercontent.com/8708551/208352534-a455f69a-f362-4ef2-8e7b-fbecf6460815.png)
 
 ---
 
-> 1 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family: 2 Reuben, Simeon, Levi and Judah; 3 Issachar, Zebulun and Benjamin; 4 Dan and Naphtali; Gad and Asher. 5 The descendants of Jacob numbered seventy[a] in all; Joseph was already in Egypt.
-6 Now Joseph and all his brothers and all that generation died, 7 but the Israelites were exceedingly fruitful; they multiplied greatly, increased in numbers and became so numerous that the land was filled with them. 
+# Revelation 21
 
----
-
-> 8 Then a new king, to whom Joseph meant nothing, came to power in Egypt. 9 “Look,” he said to his people, “the Israelites have become far too numerous for us. 10 Come, we must deal shrewdly with them or they will become even more numerous and, if war breaks out, will join our enemies, fight against us and leave the country.” 
-
----
-
-11 So they put slave masters over them to oppress them with forced labor, and they built Pithom and Rameses as store cities for Pharaoh. 12 But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites 13 and worked them ruthlessly. 14 They made their lives bitter with harsh labor in brick and mortar and with all kinds of work in the fields; in all their harsh labor the Egyptians worked them ruthlessly.
+> 1 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. 2 And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from the throne saying, “Behold, the dwelling place[a] of God is with man. He will dwell with them, and they will be his people,[b] and God himself will be with them as their God.[c]
 
 --- 
 
-15 The king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah, 16 “When you are helping the Hebrew women during childbirth on the delivery stool, if you see that the baby is a boy, kill him; but if it is a girl, let her live.” 17 The midwives, however, feared God and did not do what the king of Egypt had told them to do; they let the boys live. 18 Then the king of Egypt summoned the midwives and asked them, “Why have you done this? Why have you let the boys live?”
+# Revelation 21
+
+> 4 He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.” 5 And he who was seated on the throne said, “Behold, I am making all things new.” Also he said, “Write this down, for these words are trustworthy and true.” 6 And he said to me, “It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment.
 
 --- 
 
-19 The midwives answered Pharaoh, “Hebrew women are not like Egyptian women; they are vigorous and give birth before the midwives arrive.”
-20 So God was kind to the midwives and the people increased and became even more numerous. 21 And because the midwives feared God, he gave them families of their own.
-22 Then Pharaoh gave this order to all his people: “Every Hebrew boy that is born you must throw into the Nile, but let every girl live.”
+# Revelation 21
+
+> 7 The one who conquers will have this heritage, and I will be his God and he will be my son. 8 But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death.”
 
 ---
 
-## Summary 
+# Disucssion 
 
-- The opening section sets the stage for the rest of the book by describing: 
-    - the connection to the narrative of Genesis (Ex. 1:1–7)
-    - the oppression that has arisen under a new pharaoh (1:8–22)
+- How to summarize the story told in Bible? 
 
---- 
+- Use keywords `begins`, `ends`
 
-# Discussion 
-
-> 1 These are the names of the sons of Israel who went to Egypt with Jacob,
-
-- What's the significance of using both `Israel` and `Jacob` to refer to the same person? 
-
----
-
-# Discussion
-
-- It links the event of Joseph bringing Jacob and all his brothers to Egypt 
-- Connects to the promise that God would be faithful to the covenant that he made with Abraham and reaffirmed with Jacob 
-
---- 
-
-# Genesis 35 9-12
- 
-> 9 After Jacob returned from Paddan Aram,[c] God appeared to him again and blessed him. 10 God said to him, “Your name is Jacob,[d] but you will no longer be called Jacob; your name will be Israel.[e]” So he named him Israel.
-
---- 
-
-# Genesis 35 9-12
-
-11 And God said to him, “I am God Almighty[f]; be fruitful and increase in number. A nation and a community of nations will come from you, and kings will be among your descendants. 12 The land I gave to Abraham and Isaac I also give to you, and I will give this land to your descendants after you.” 13 Then God went up from him at the place where he had talked with him.
-
---- 
-
-# Discussion 
-
-> 7 but the Israelites were exceedingly fruitful; they multiplied greatly, increased in numbers and became so numerous that the land was filled with them.
-
-- How is this sentence related to previous scriptures? 
-
---- 
-
-# Genesis 1
-
-> 28 God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”
+- :negative_squared_cross_mark: begins with Genesis and ends with Revelation
 
 ---
 
 # Discussion 
 
-> 8 Then a new king, to whom Joseph meant nothing, came to power in Egypt.
+- “The story begins with God in eternal glory, and it ends with God and his people in eternal glory. At the center stands the cross, where God revealed his glory through his Son.”
+   - Excerpt From ESV Study Bible Crossway
 
-- Any other example of people's fate being changed by a new king/dynasty/etc?
-- What can be learnt from these examples?
+---
 
---- 
+# Discussion 
 
-# Application   
-
-- Constantine the Great, the first Roman emperor converted to Christianity
-
-- Things on Earth can change
-
-- Think about a case where changes affect/benefit you, and how should you respond 
-
---- 
-
-# Discussion  
-
-> 15 The king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah,
-
-- The names of midwives are given here for what purpose?
-
---- 
-
-# Discussion
-
-- Notice that even `The king of Egypt` does not have a name
-- The Hebrew midwives fear God more than Pharaoh, and the author shows his approval 
-- The exemplary actions of the midwives signify a central theme of Exodus: Israel is called to fear God above any other ruler, nation, or circumstance 
+![w:1000 h:500](https://user-images.githubusercontent.com/8708551/208354013-35e05117-02c3-48e3-842a-03d67d6262b9.png)
 
 --- 
 
 # Discussion 
 
-> 19 The midwives answered Pharaoh, “Hebrew women are not like Egyptian women; they are vigorous and give birth before the midwives arrive.”
-
-- This reply appears to be deceptive, are the midwives obliged to give the truth under such circumstances? 
+- What does `and the sea was no more` mean? 
 
 --- 
 
 # Discussion 
 
-- Some would argue that, with such an evil plan, Pharaoh had forfeited any right to expect obedience 
-- Exodus' chief purpose being to help its readers rejoice that God had wonderfully preserved his people from Pharaoh
+- “The sea was no more does not mean there will be no bodies of water in the new earth (cf. 21:6; 22:1–2) but refers to the source of earthly rebellion, chaos, and danger—the sea from which the beast emerged (13:1; Dan. 7:3). This symbolic (or literal) source of rebellion will no longer threaten creation’s perfection.”
+   - Excerpt From ESV Study Bible Crossway
+
+--- 
+
+# Discussion 
+
+- What does `I am the Alpha and the Omega` mean? 
+
+--- 
+
+# Discussion 
+
+![w:1000 h:500](https://user-images.githubusercontent.com/8708551/208356152-8956ef70-5d68-4bf1-a7c1-c75d7f7f2d31.png)
+
+--- 
+
+# Discussion 
+
+- First and last letters of the Greek alphabet  
+
+- The Lord stands beyond the universe’s beginning and its end as Sovereign Creator and Consummator, the first and the last (Isa. 41:4; 44:6; 48:12)
+
+> Isa. 41:4 Who has performed and done this,
+    calling the generations from the beginning?
+I, the Lord, the first,
+    and with the last; I am he.
+
+--- 
+
+> Isa. 44:6 Thus says the Lord, the King of Israel
+    and his Redeemer, the Lord of hosts:
+“I am the first and I am the last;
+    besides me there is no god.
+
+> Isa. 48:12 “Listen to me, O Jacob,
+    and Israel, whom I called!
+I am he; I am the first,
+    and I am the last.
