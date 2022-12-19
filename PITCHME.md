@@ -128,6 +128,11 @@ I am he; I am the first,
 
 # Application 
 
+> Ecclesiastes 3:11 He has made everything suitable for its time; moreover he has put a sense of past and future into their minds, yet they cannot find out what God has done from the beginning to the end.
+
 - Try something new this year for Christ 
 
 - Eg a new Bible reading plan, reach out to new people to share the gospel, etc
+
+- Pray to God for wisdom 
+
