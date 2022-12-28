@@ -35,7 +35,7 @@ Timothy Shan
 
 ## The Last Will Be First
 
-[![w:800 h:500](https://user-images.githubusercontent.com/106022681/209765414-218b7d95-c04e-44e3-8157-213387450d42.png)](https://youtu.be/n-UenIDevpI)
+[![w:1000 h:600](https://user-images.githubusercontent.com/106022681/209765414-218b7d95-c04e-44e3-8157-213387450d42.png)](https://youtu.be/n-UenIDevpI)
 
 ---
 
