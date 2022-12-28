@@ -33,6 +33,12 @@ Timothy Shan
 
 ---
 
+## The Last Will Be First
+
+[![w:800 h:500](https://user-images.githubusercontent.com/106022681/209765414-218b7d95-c04e-44e3-8157-213387450d42.png)](https://youtu.be/n-UenIDevpI)
+
+---
+
 # Revelation 21
 
 > 1 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. 2 And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. 3 And I heard a loud voice from the throne saying, “Behold, the dwelling place[a] of God is with man. He will dwell with them, and they will be his people,[b] and God himself will be with them as their God.[c]
