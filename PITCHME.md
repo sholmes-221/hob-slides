@@ -21,21 +21,6 @@ Timothy Shan
 
 - What's your personal experience with the Law?
 
-- Legal themed TV programs I have watched 
-    - The Practice
-    - Boston Legal
-    - Suites 
-    - The Good Wife
-    - Legal High 
-
----
-
-# Boston Legal 
-
-- Shirley Schmidt vs Big Sugar
-
-[![w:700 h:500](https://user-images.githubusercontent.com/106022681/215320968-132d4b37-e60b-4cfa-847a-332cbb79c4f8.png)](https://youtu.be/bbFn3n7UcUk)
-
 ---
 
 # Some fun facts 
@@ -49,6 +34,14 @@ Timothy Shan
 - Forgetting your wife's birthday in Oceania's Samoa may lead to imprisonment.
 
 - Do not feed pigeons in Venice 
+
+---
+
+# Boston Legal 
+
+- Shirley Schmidt vs Big Sugar
+
+[![w:700 h:500](https://user-images.githubusercontent.com/106022681/215320968-132d4b37-e60b-4cfa-847a-332cbb79c4f8.png)](https://youtu.be/bbFn3n7UcUk)
 
 ---
 
@@ -70,9 +63,24 @@ Timothy Shan
 
 ---
 
+# Covenant at Sinai
+
+> 19:5 Now therefore, if you will indeed obey my voice and keep my covenant, you shall be my treasured possession among all peoples, for all the earth is mine; 6 and you shall be to me a kingdom of priests and a holy nation. These are the words that you shall speak to the people of Israel."
+
+- Is this only about Aaron and his sons as priests?
+
+---
+
+# Covenant at Sinai
+
+- 1 Peter 2:5 you yourselves like living stones are being built up as a spiritual house, to be a `holy priesthood`, to offer spiritual sacrifices acceptable to God through Jesus Christ.
+- 9 But you are a chosen race, `a royal priesthood`, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
+
+---
+
 # The Ten Commandments
 
-> 1 And God spoke all these words, saying, 2 "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. 3 "You shall have no other gods before me. 4 "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. 5 You shall not bow down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and the fourth generation of those who hate me,
+> 20:1 And God spoke all these words, saying, 2 "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. 3 "You shall have no other gods before me. 4 "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. 5 You shall not bow down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and the fourth generation of those who hate me,
 
 ---
 
@@ -90,16 +98,22 @@ Timothy Shan
 
 # The Ten Commandments
 
-- Where does this happen? 
+- Where does this happen?
+    - Hint: הַר הָאֱלֹהִים
 - Have you read about this place before? 
 
 ---
 
 # The Ten Commandments
 
-- Exodus 3:12 He said, "But I will be with you, and this shall be the sign for you, that I have sent you: when you have brought the people out of Egypt, you shall serve God on this mountain."
+- Exodus 3:1 Now Moses was keeping the flock of his father-in-law, Jethro, the priest of Midian, and he led his flock to the west side of the wilderness and came to `Horeb`, the mountain of God.
 
-![w:500 h:350](https://www.gantshillurc.co.uk/uploads/1/2/5/1/125104906/367029292.jpg)
+- Exodus 3:12 He said, "But I will be with you, and this shall be the sign for you, that I have sent you: when you have brought the people out of Egypt, you shall serve God `on this mountain`."
 
 ---
 
+# The Ten Commandments
+
+![w:700 h:550](https://www.gantshillurc.co.uk/uploads/1/2/5/1/125104906/367029292.jpg)
+
+---
