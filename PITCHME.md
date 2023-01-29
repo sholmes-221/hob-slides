@@ -138,3 +138,23 @@ Timothy Shan
 - Romans 13:9 For the commandments, "You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet," and any other commandment, are summed up in this word: "You shall love your neighbor as yourself."
 
 ---
+
+# The Ten Commandments
+
+> 4 "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+
+- Why is this one important?
+
+---
+
+- The Lord has already demonstrated the divine power through The Plagues of Egypt
+- Deuteronomy 4:15 “Therefore watch yourselves very carefully. Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, 
+
+---
+
+# Application 
+
+- Any other thoughts about the Ten Commandments that you would like to share?
+- Pick one Commandment and think about how to apply it in your life this week
+
+
