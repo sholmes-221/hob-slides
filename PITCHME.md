@@ -78,6 +78,13 @@ Timothy Shan
 
 ---
 
+# Covenant at Sinai
+
+- 12 Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation.
+- By keeping the covanent, the people of Isreal would continue both to set themselves apart from the nations around them, and mediate the presence and blessing of the Lord. 
+
+---
+
 # The Ten Commandments
 
 > 20:1 And God spoke all these words, saying, 2 "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. 3 "You shall have no other gods before me. 4 "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth. 5 You shall not bow down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and the fourth generation of those who hate me,
@@ -115,5 +122,19 @@ Timothy Shan
 # The Ten Commandments
 
 ![w:700 h:550](https://www.gantshillurc.co.uk/uploads/1/2/5/1/125104906/367029292.jpg)
+
+---
+
+# The Ten Commandments
+
+- Could you summarize The Ten Commandments? 
+
+---
+
+# The Ten Commandments
+
+- they define the life that the Lord calls his people to live before him (20:1–11), and with each other (vv. 12–17)
+- Mark 12:30 And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.'
+- Romans 13:9 For the commandments, "You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet," and any other commandment, are summed up in this word: "You shall love your neighbor as yourself."
 
 ---
