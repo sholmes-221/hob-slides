@@ -127,6 +127,42 @@ Timothy Shan
 
 # The Ten Commandments
 
+> 4 "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
+
+- Why is this one important?
+
+---
+
+# The Ten Commandments
+
+- The Lord has already demonstrated the divine power through The Plagues of Egypt
+- Deuteronomy 4:15 “Therefore watch yourselves very carefully. Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, 
+
+---
+
+# The Ten Commandments
+
+- Which one we are supposed to forget?
+
+---
+
+# The Ten Commandments
+
+- 8 "Remember the Sabbath day, to keep it holy.
+- From [Amazing Facts, Pastor Doug](https://www.amazingfacts.org/): `We are living in such a relentlessly busy culture that it takes thought, planning, and effort to rest.`
+
+---
+
+# The Ten Commandments
+
+- Should we still keep Sabbath day, and how?
+
+[![w:900 h:500](https://manna.amazingfacts.org/amazingfacts/website/amazingfacts/images/banners/ContentPages/Christians-and-the-Sabbath.jpg)](https://youtube.com/clip/UgkxfPHQg6TCGpDacPtXmr3-NT0VfXYOMsBV)
+
+---
+
+# The Ten Commandments
+
 - Could you summarize The Ten Commandments? 
 
 ---
@@ -136,19 +172,6 @@ Timothy Shan
 - they define the life that the Lord calls his people to live before him (20:1–11), and with each other (vv. 12–17)
 - Mark 12:30 And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.'
 - Romans 13:9 For the commandments, "You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet," and any other commandment, are summed up in this word: "You shall love your neighbor as yourself."
-
----
-
-# The Ten Commandments
-
-> 4 "You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.
-
-- Why is this one important?
-
----
-
-- The Lord has already demonstrated the divine power through The Plagues of Egypt
-- Deuteronomy 4:15 “Therefore watch yourselves very carefully. Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, 
 
 ---
 
