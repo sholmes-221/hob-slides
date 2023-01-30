@@ -155,6 +155,6 @@ Timothy Shan
 # Application 
 
 - Any other thoughts about the Ten Commandments that you would like to share?
-- Pick one Commandment and think about how to apply it in your life this week
+- Reflect on the Ten Commandments and think about how to apply them in your life this week
 
 
