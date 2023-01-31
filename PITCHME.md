@@ -138,10 +138,18 @@ Timothy Shan
 - Deuteronomy 4:15 “Therefore watch yourselves very carefully. Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, 
 
 ---
+ 
+# The Ten Commandments
+
+- A message from [everystudent.com](everystudent.com)
+- We are used to relying on our 5 senses: touch, taste, see, hear and smell
+- Corrie ten Boom, who endured a concentration camp during the Holocaust said: "No pit is so deep that God is not deeper still."
+
+---
 
 # The Ten Commandments
 
-- Which ones we are supposed to forget?
+- Which ones are we supposed to forget?
 
 ---
 
