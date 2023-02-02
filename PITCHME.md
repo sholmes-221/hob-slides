@@ -39,7 +39,7 @@ Timothy Shan
 
 # Boston Legal 
 
-- Shirley Schmidt vs Big Sugar
+- The law protects the weak
 
 [![w:700 h:500](https://user-images.githubusercontent.com/106022681/215320968-132d4b37-e60b-4cfa-847a-332cbb79c4f8.png)](https://youtu.be/bbFn3n7UcUk)
 
