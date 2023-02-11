@@ -9,7 +9,7 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> The New Heaven and the New Earth
+# <!--fit--> Covenant Law
 
 Exodus 19:1 - 24:18
 
