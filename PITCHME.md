@@ -1,6 +1,6 @@
 ---
 marp: true
-title: Covenant Law 
+title: Covenant Law of Sinai
 description: Timothy Shan
 theme: uncover
 paginate: true
