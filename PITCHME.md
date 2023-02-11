@@ -9,7 +9,7 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Covenant Law
+# <!--fit--> Covenant Law of Sinai
 
 Exodus 19:1 - 24:18
 
